@@ -65,15 +65,17 @@
     "2025-11-23",
     "2025-11-27",
     "2025-11-28",
-    "2025-11-30"
+    "2025-11-30",
+    "2025-12-01",
+    "2025-12-02"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-02T08:00:00.000Z",
     "start": "2025-11-30T00:00:00.000Z",
-    "end": "2025-11-30T00:00:00.000Z",
-    "ttl": 1764641290
+    "end": "2025-12-02T00:00:00.000Z",
+    "ttl": 1764727682
   },
   "longest_daily_streak": {
     "duration": 62,
@@ -85,17 +87,17 @@
   "current_weekly_streak": {
     "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-02T08:00:00.000Z",
     "start": "2025-09-20T00:00:00.000Z",
-    "end": "2025-11-30T00:00:00.000Z",
-    "ttl": 1764641290
+    "end": "2025-12-02T00:00:00.000Z",
+    "ttl": 1764727682
   },
   "longest_weekly_streak": {
     "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-02T08:00:00.000Z",
     "start": "2025-09-20T00:00:00.000Z",
-    "end": "2025-11-30T00:00:00.000Z"
+    "end": "2025-12-02T00:00:00.000Z"
   },
   "current_weekly_streak_state": "active",
   "goal_info": {
@@ -180,14 +182,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 30,
+    "daysLeftInCurrentChallenge": 29,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 9,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 5,
-        "title": "完美读书周",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "quantity": 3,
+        "title": "良好开端",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
