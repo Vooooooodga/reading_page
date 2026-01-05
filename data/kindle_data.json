@@ -77,15 +77,17 @@
     "2025-12-14",
     "2025-12-15",
     "2025-12-19",
-    "2026-01-02"
+    "2026-01-02",
+    "2026-01-03",
+    "2026-01-04"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-02T08:00:00.000Z",
+    "utcEndTime": "2026-01-04T08:00:00.000Z",
     "start": "2026-01-02T00:00:00.000Z",
-    "end": "2026-01-02T00:00:00.000Z",
-    "ttl": 1767494005
+    "end": "2026-01-04T00:00:00.000Z",
+    "ttl": 1767580370
   },
   "longest_daily_streak": {
     "duration": 62,
@@ -95,12 +97,12 @@
     "end": "2025-11-20T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-02T08:00:00.000Z",
+    "utcEndTime": "2026-01-04T08:00:00.000Z",
     "start": "2026-01-02T00:00:00.000Z",
-    "end": "2026-01-02T00:00:00.000Z",
-    "ttl": 1767494005
+    "end": "2026-01-04T00:00:00.000Z",
+    "ttl": 1767580370
   },
   "longest_weekly_streak": {
     "duration": 14,
@@ -113,6 +115,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "908B7C59B7E34EE3AEA1EC20D4E5B407",
+        "read_event_id": "fc6a5143-1183-4b38-ab93-fc2068c2fcf1",
+        "date_read": "2026-01-03T20:19:21-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "26952E9549EC4E2089CF7777B49E7024",
         "read_event_id": "2e6e4c0a-9b93-46d5-9948-bd8b5886c08d",
@@ -192,16 +202,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 87,
+    "daysLeftInCurrentChallenge": 86,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_59a1a25a-c831-32be-9dee-cb84602cba40.png",
         "quantity": 1,
-        "title": "良好开端",
+        "title": "阅读爱好者",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
@@ -218,9 +228,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
         "quantity": 0,
-        "title": "阅读爱好者",
+        "title": "藏书家",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
