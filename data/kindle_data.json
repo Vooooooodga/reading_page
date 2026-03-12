@@ -109,7 +109,12 @@
     "2026-02-21",
     "2026-02-23",
     "2026-02-24",
-    "2026-02-26"
+    "2026-02-26",
+    "2026-03-01",
+    "2026-03-02",
+    "2026-03-03",
+    "2026-03-04",
+    "2026-03-09"
   ],
   "current_daily_streak": {
     "duration": 0
@@ -122,19 +127,32 @@
     "end": "2025-11-20T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 26,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-09T07:00:00.000Z",
+    "start": "2025-09-20T00:00:00.000Z",
+    "end": "2026-03-09T00:00:00.000Z",
+    "ttl": 1773283700
   },
   "longest_weekly_streak": {
-    "duration": 24,
+    "duration": 26,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-26T08:00:00.000Z",
+    "utcEndTime": "2026-03-09T07:00:00.000Z",
     "start": "2025-09-20T00:00:00.000Z",
-    "end": "2026-02-26T00:00:00.000Z"
+    "end": "2026-03-09T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "BB46C63C931D4B8E81C4FEDD13224377",
+        "read_event_id": "3077b15c-07aa-401b-81a1-6b7cf69afc43",
+        "date_read": "2026-03-03T15:56:59-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "908B7C59B7E34EE3AEA1EC20D4E5B407",
         "read_event_id": "fc6a5143-1183-4b38-ab93-fc2068c2fcf1",
@@ -222,16 +240,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 21,
+    "daysLeftInCurrentChallenge": 20,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SecretRecipe_518a4f12-619c-40b1-ac03-bbd9cec8ec9f.png",
-        "quantity": 1,
-        "title": "Title",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 3,
+        "title": "良好开端",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
