@@ -237,35 +237,35 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 79,
+    "daysLeftInCurrentChallenge": 78,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 0,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
         "quantity": 0,
-        "title": "Gold Reader",
+        "title": "金牌读者",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_SilverReader_2bd7c450-c9b7-3de1-848a-546ecacea042.png",
         "quantity": 0,
-        "title": "Silver Reader",
+        "title": "银牌读者",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "阅读爱好者",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "藏书家",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
