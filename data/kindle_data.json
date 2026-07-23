@@ -138,15 +138,16 @@
     "2026-07-17",
     "2026-07-19",
     "2026-07-20",
-    "2026-07-21"
+    "2026-07-21",
+    "2026-07-22"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-07-21T07:00:00.000Z",
+    "utcEndTime": "2026-07-22T07:00:00.000Z",
     "start": "2026-07-19T00:00:00.000Z",
-    "end": "2026-07-21T00:00:00.000Z",
-    "ttl": 1784691025
+    "end": "2026-07-22T00:00:00.000Z",
+    "ttl": 1784777708
   },
   "longest_daily_streak": {
     "duration": 62,
@@ -158,10 +159,10 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-07-21T07:00:00.000Z",
+    "utcEndTime": "2026-07-22T07:00:00.000Z",
     "start": "2026-07-06T00:00:00.000Z",
-    "end": "2026-07-21T00:00:00.000Z",
-    "ttl": 1784691025
+    "end": "2026-07-22T00:00:00.000Z",
+    "ttl": 1784777708
   },
   "longest_weekly_streak": {
     "duration": 28,
@@ -268,16 +269,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 71,
+    "daysLeftInCurrentChallenge": 70,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_DogDiaries_4099e082-dcb2-3703-98d3-4aa7824f8f5c.png",
         "quantity": 1,
-        "title": "良好开端",
+        "title": "酷暑时节",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
