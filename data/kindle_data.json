@@ -139,15 +139,16 @@
     "2026-07-19",
     "2026-07-20",
     "2026-07-21",
-    "2026-07-22"
+    "2026-07-22",
+    "2026-07-23"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-07-22T07:00:00.000Z",
+    "utcEndTime": "2026-07-23T07:00:00.000Z",
     "start": "2026-07-19T00:00:00.000Z",
-    "end": "2026-07-22T00:00:00.000Z",
-    "ttl": 1784777708
+    "end": "2026-07-23T00:00:00.000Z",
+    "ttl": 1784863894
   },
   "longest_daily_streak": {
     "duration": 62,
@@ -159,10 +160,10 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-07-22T07:00:00.000Z",
+    "utcEndTime": "2026-07-23T07:00:00.000Z",
     "start": "2026-07-06T00:00:00.000Z",
-    "end": "2026-07-22T00:00:00.000Z",
-    "ttl": 1784777708
+    "end": "2026-07-23T00:00:00.000Z",
+    "ttl": 1784863894
   },
   "longest_weekly_streak": {
     "duration": 28,
@@ -175,6 +176,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "812609867C6A4404922AC7506C5A2574",
+        "read_event_id": "1eb50b68-f030-42aa-bbdb-527cd91c1e41",
+        "date_read": "2026-07-20T03:58:17-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "BB46C63C931D4B8E81C4FEDD13224377",
         "read_event_id": "3077b15c-07aa-401b-81a1-6b7cf69afc43",
@@ -269,14 +278,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 70,
+    "daysLeftInCurrentChallenge": 69,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_DogDiaries_4099e082-dcb2-3703-98d3-4aa7824f8f5c.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_410baab2-3b9a-36a0-be78-e79abca4e216.png",
         "quantity": 1,
-        "title": "酷暑时节",
+        "title": "阅读爱好者",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -295,9 +304,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_6101bf78-9757-3c5a-bf34-3f69b27aac0d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bibliophile_e5f8b615-4174-376a-8942-e5284518e814.png",
         "quantity": 0,
-        "title": "阅读爱好者",
+        "title": "藏书家",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
