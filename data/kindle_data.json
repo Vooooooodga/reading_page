@@ -141,10 +141,17 @@
     "2026-07-21",
     "2026-07-22",
     "2026-07-23",
-    "2026-07-24"
+    "2026-07-24",
+    "2026-08-02",
+    "2026-08-03"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-08-03T07:00:00.000Z",
+    "start": "2026-08-02T00:00:00.000Z",
+    "end": "2026-08-03T00:00:00.000Z",
+    "ttl": 1785814007
   },
   "longest_daily_streak": {
     "duration": 62,
@@ -154,7 +161,12 @@
     "end": "2025-11-20T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-08-03T07:00:00.000Z",
+    "start": "2026-08-02T00:00:00.000Z",
+    "end": "2026-08-03T00:00:00.000Z",
+    "ttl": 1785814007
   },
   "longest_weekly_streak": {
     "duration": 28,
@@ -163,7 +175,7 @@
     "start": "2025-09-20T00:00:00.000Z",
     "end": "2026-03-28T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -269,16 +281,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 59,
+    "daysLeftInCurrentChallenge": 58,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_410baab2-3b9a-36a0-be78-e79abca4e216.png",
-        "quantity": 1,
-        "title": "阅读爱好者",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
+        "quantity": 2,
+        "title": "良好开端",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
