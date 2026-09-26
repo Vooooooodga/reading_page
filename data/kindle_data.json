@@ -273,35 +273,35 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 6,
+    "daysLeftInCurrentChallenge": 5,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
         "quantity": 2,
-        "title": "良好开端",
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
         "quantity": 0,
-        "title": "金牌读者",
+        "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_SilverReader_79be1896-990f-3a1c-8f7d-a79d287b373d.png",
         "quantity": 0,
-        "title": "银牌读者",
+        "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bibliophile_e5f8b615-4174-376a-8942-e5284518e814.png",
         "quantity": 0,
-        "title": "藏书家",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
